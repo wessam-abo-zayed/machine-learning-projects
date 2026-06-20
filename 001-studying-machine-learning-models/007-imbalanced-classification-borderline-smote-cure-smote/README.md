@@ -1,4 +1,4 @@
-# 007 - Imbalanced Classification: Borderline-SMOTE vs CURE-SMOTE
+# Imbalanced Classification: Borderline-SMOTE vs CURE-SMOTE
 
 ## 📌 Project Overview
 
